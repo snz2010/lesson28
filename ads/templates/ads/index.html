@@ -1,0 +1,15 @@
+{% extends 'ads/base.html' %}
+
+{% block title %}
+Ad list
+{% end block%}
+
+
+{% block content %}
+{% for name in names %}
+<p>
+{{ name }}
+</p>
+{% endfor %}
+{% end block%}
+

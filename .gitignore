@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+lesson27/__pycache__/
+ads/__pycache__/
+users/__pycache__/
+.idea/
